@@ -28,5 +28,36 @@
         "created_at":"2025-02-29 12:30:35"
       }
     ]
+  },
+
+  "endpoint2": {
+    "success": false,
+    "message": "Ridi",
+    "data":[
+      {
+        "id":"3654",
+        "username":"Hajhos3in",
+        "lat":"21.3259879",
+        "lng":"35.54654654",
+        "address":"kirestoon",
+        "comment":"Hi Tokhmi",
+        "likeCount":"10",
+        "dislikeCount":"5",
+        "replayCount":"2",
+        "created_at":"2025-02-30 12:30:35"
+      },
+      {
+        "id":"35967",
+        "username":"Mr.Amir",
+        "lat":null,
+        "lng":null,
+        "address":"Kooosestoon",
+        "comment":"Hi Mokhmi",
+        "likeCount":"15",
+        "dislikeCount":"3",
+        "replayCount":"5",
+        "created_at":"2025-02-29 12:30:35"
+      }
+    ]
   }
 }
